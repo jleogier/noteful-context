@@ -1,2 +1,1 @@
-# noteful-context
-Noteful with Context
+# Noteful Client
